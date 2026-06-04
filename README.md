@@ -1,6 +1,6 @@
 # 🏦 e-Bank - Plateforme Bancaire
 
-Application une architecture propre, sécurisée et modulaire.
+Application avec une architecture propre, sécurisée et modulaire.
 
 ## 🚀 Lancement Rapide
 
